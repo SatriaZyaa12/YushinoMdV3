@@ -72,14 +72,14 @@ global.wibb = `${wktuwib}`
 global.nameown1= 'satria'
 global.nameown2 = 'amell'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'https://chat.whatsapp.com/Ct1endMh9ZT1TYo6kSfoAO'
+global.Linkgc = 'https://chat.whatsapp.com/Cf4jDsA5m0B5q1cyk7u0su'
 global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/xyzcbu_'
 global.sgh = 'https://github.com/FannBott' //github
-global.sgc = 'https://chat.whatsapp.com/Ct1endMh9ZT1TYo6kSfoAO' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/Cf4jDsA5m0B5q1cyk7u0su' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
@@ -304,7 +304,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/hyuura-official"
+global.urlnya = "https://www.instagram.com/xyzcbu_"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '0813 6128 1833'
 

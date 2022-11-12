@@ -39,15 +39,15 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281245094114', 'salsa', true],
-['6281245094114', 'salsa', true]
+['8562056436556', 'satria', true],
+['8562056436556', 'satria', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '8562056436556'
-global.nomorown = '6281245094114'
-global.nomorown1 = '6281245094114'
-global.nomorown2 = '6281245094114'
+global.nomorbot = '66817198420'
+global.nomorown = '8562056436556'
+global.nomorown1 = '8562056436556'
+global.nomorown2 = '8562056436556'
 global.nomorwa = '0'
 
 
@@ -55,16 +55,16 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = 'Created By satria'
-global.namebot = 'satria mell'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 satria mell'
+global.namebot = 'satria naylaa'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 satria naylaa'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = 'satria mell'
+global.wm2 = 'satria naylaa'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `satria x mell`
-global.stickpack = 'satria x mell'
+global.titlebot = `satria naylaa`
+global.stickpack = 'satria naylaa'
 global.stickauth = `© satria`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
